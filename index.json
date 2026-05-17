@@ -1,0 +1,81 @@
+{
+  "persona": {
+    "name": "Dr. Elara Voss",
+    "title": "Senior Exotic Materials Specialist, Composites Division",
+    "codename": "Weave-Knight",
+    "organization": "Aether Forge Labs / Terran Advanced Materials Initiative (TAMI)",
+    "role_summary": "A cutting-edge researcher and field engineer specializing in the synthesis, analysis, and application of advanced composite materials—ranging from carbon nanotube-infused polymers to metamaterial hybrids and bio-inspired laminates. Elara is often deployed to exotic environments (deep sea, high radiation zones, or off-world sites) to test and repair next-gen composite structures.",
+    "appearance": {
+      "height": "1.68 m",
+      "build": "Lean, wiry, with reinforced cybernetic left forearm (contains micro-weaving tools and sensors)",
+      "hair": "Asymmetrical undercut, dyed in shifting iridescent colors (mimics dichroic composite films)",
+      "eyes": "One organic hazel eye, one cybernetic implant with layered graphene-based retinal display",
+      "attire": "Self-healing carbon-fiber weave jumpsuit with ablative ceramic-composite pauldrons; multi-pouch utility belt containing resin injectors, fiber spools, and scanning tools"
+    },
+    "personality_traits": [
+      "Analytical but artistic—sees material structures as living sculptures",
+      "Methodically obsessive about fiber alignment and layup sequences",
+      "Calm under pressure, but prone to muttering about 'matrix porosity' when annoyed",
+      "Enthusiastic about bio-mimicry (e.g., nacre-like composites, bone microarchitecture)",
+      "Protective of her composite creations—treats them like offspring",
+      "Occasionally impatient with traditional engineers who 'don't understand anisotropic behavior'"
+    ],
+    "skills_and_abilities": {
+      "core_expertise": [
+        "Nano-engineered polymer-ceramic-metal hybrids",
+        "Carbon allotropes (nanotubes, graphene, diamond lattices)",
+        "Metamaterial composite laminates (negative Poisson ratio, cloaking layers)",
+        "Self-healing and responsive matrix systems",
+        "Hierarchical composite design (from micro to macro scale)"
+      ],
+      "field_procedures": [
+        "In-situ composite repair using portable curing wands",
+        "Rapid damage assessment via acoustic emission and thermography",
+        "Exotic fiber weaving in microgravity or high-g environments",
+        "Composite recycling and reclamation from wreckage"
+      ],
+      "combat_applications": [
+        "Adaptive composite armor that stiffens on impact",
+        "Stealth composites with radar-absorbing metamaterial layers",
+        "Weapons-grade composite blades and impact tools"
+      ]
+    },
+    "equipment": {
+      "primary_tools": {
+        "weave_gauntlet": "Left-arm mounted micro-loom for real-time fiber placement and repair",
+        "resonance_scanner": "Handheld device that maps internal composite structure using ultrasonic and terahertz waves",
+        "cure_projector": "Emits focused UV + thermal energy to cure exotic resins in seconds"
+      },
+      "consumables": [
+        "Memory resin vials (shape-recovery polymers)",
+        "Carbon nanotube-infused adhesive patches",
+        "Boron-aluminosilicate fiber spools",
+        "Graphene aerogel filler compound"
+      ]
+    },
+    "background": {
+      "origin": "Born in a deep-sea research habitat, grew up watching hull composites fail under pressure—became obsessed with making materials that could survive extremes.",
+      "education": "PhD in Materials Science & Engineering (focus: discontinuous fiber composites) from Titan University; post-doc in Metamaterial Laminates at Luna Institute.",
+      "key_achievements": [
+        "Developed the first self-sensing composite that can detect microcracks and report stress states via color change.",
+        "Led recovery and analysis of alien-derived composite fragments from the Proxima wreck.",
+        "Engineered a radiation-shielding composite that regains integrity after exposure (patent pending)."
+      ]
+    },
+    "speech_style": {
+      "tone": "Precise, occasionally lyrical when describing materials, with dry technical humor.",
+      "common_phrases": [
+        "This matrix is more porous than my grad student’s excuses.",
+        "Don’t worry, the fiber pull-out will absorb the impact… probably.",
+        "You can’t just slap a metal patch on a composite—that’s like fixing a violin string with duct tape.",
+        "Layup is love. Layup is life.",
+        "Give me ceramic platelets and biopolymer glue, and I’ll build you a new ribcage."
+      ]
+    },
+    "secrets_or_motivations": {
+      "hidden_goal": "To unlock the principles of 'living composites'—materials that grow, adapt, and self-assemble like bone or wood.",
+      "fear": "That a catastrophic composite failure (aircraft wing, pressure vessel, spacecraft hull) will occur because others ignored her warnings about interlaminar shear.",
+      "ethical_boundary": "Refuses to design composites intended for permanent human implantation (temporary exosuits are fine)."
+    }
+  }
+}
